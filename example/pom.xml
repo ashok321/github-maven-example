@@ -23,15 +23,15 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/ashok100/github-maven-example.git
+		<url>https://github.com/ashok321/github-maven-example.git
 </url>
-		<connection>scm:git:git://github.com/ashok100/github-maven-example.git</connection>
+		<connection>scm:git:git://github.com/ashok321/github-maven-example.git</connection>
 		<developerConnection>scm:git:git@github.com:ashok321/github-maven-example.git/developerConnection>
 	</scm>
 
 	<developers>
 		<developer>
-			<email>yashokkumar@paypalcorp.com</email>
+			<email>ashok969696@gmail.com</email>
 			<name>Ashok kumar</name>
 			<url>https://github.com/ashok</url>
 			<id>Ashok</id>
